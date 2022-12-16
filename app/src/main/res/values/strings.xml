@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name">cursoandroid</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="btn_text">entrar</string>
+
+
+</resources>

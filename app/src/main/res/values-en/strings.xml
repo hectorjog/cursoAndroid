@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidcourse</string>
+    <string name="mensaje">Welcome</string>
+    <string name="btn_text">Enter</string>
+
+
+</resources>
